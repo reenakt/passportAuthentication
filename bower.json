@@ -1,0 +1,19 @@
+{
+  "name": "contact-app-reena",
+  "description": "angular application",
+  "main": "server.js",
+  "authors": [
+    "reena"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "nodejs",
+    "contacts"
+  ],
+  "homepage": "",
+  "dependencies": {
+    "angular": "^1.5.8",
+    "bootstrap": "^3.3.7",
+    "angular-ui-router": "^0.3.1"
+  }
+}
